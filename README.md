@@ -11,7 +11,7 @@ the resulting strokes are fairly jagged. If you find a solution, let me know!
 
 ## Demo
 
-<video src="./demo.mp4"></video>
+<video src="https://github.com/protestContest/notepad.js/blob/master/demo.mp4?raw=true"></video>
 
 ## Usage
 
@@ -50,10 +50,10 @@ Image data is saved as a JSON object with this structure:
         "x": 15,
         "y": 25,
         "force": 0.2
-      },
-      // ... other stroke points
-    ],
-    // ... other strokes
+      }
+
+    ]
+
   ]
 }
 ```
