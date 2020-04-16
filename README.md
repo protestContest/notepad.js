@@ -11,7 +11,7 @@ the resulting strokes are fairly jagged. If you find a solution, let me know!
 
 ## Demo
 
-<video src="https://github.com/protestContest/notepad.js/blob/master/demo.mp4?raw=true"></video>
+<img src="https://github.com/protestContest/notepad.js/blob/master/demo.gif"></video>
 
 ## Usage
 
